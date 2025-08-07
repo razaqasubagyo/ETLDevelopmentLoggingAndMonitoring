@@ -20,19 +20,19 @@ Talend Open Studio, Logging & Monitoring, Error Handling, ETL Job Auditing, ETL 
 <h2>Documentation:</h2>
 
 <p align="center">
-Explicit Logging - Job Designer Workflow <br/>
+1.1 Explicit Logging - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/74bde713-4485-4d94-832f-756434afc90e" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-Explicit & Implicit Logging - Output Files  <br/>
+1.2 Explicit & Implicit Logging - Output Files  <br/>
 <img src="https://github.com/user-attachments/assets/d7efc4f4-85f0-4575-8dd3-e1d410c0bff8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Logging Output - Console View <br/>
+1.3 Logging Output - Console View <br/>
 <img src="https://github.com/user-attachments/assets/e30def2c-dc16-4b33-ad69-938bf870e8e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Implicit Logging - Configuration Setup  <br/>
+1.4 Implicit Logging - Configuration Setup  <br/>
 <img src="https://github.com/user-attachments/assets/d0656ee4-f252-4d72-9d7c-001a051c2cbb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
